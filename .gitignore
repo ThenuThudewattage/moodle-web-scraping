@@ -11,3 +11,5 @@ venv.bak/
 # downloaded files
 downloaded_notes
 converted_pdfs
+
+.DS_Store
