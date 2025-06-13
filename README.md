@@ -63,3 +63,5 @@ This Python script automates the download of PowerPoint lecture notes from a Moo
 - PowerPoint files are saved in: downloaded_notes/
 - PDF files (if converted) are saved in: converted_pdfs/
 
+
+Honestly, I’m questioning my life choices — why did I decide to automate this at midnight? Wouldn’t take much time to do manually anyways :(
