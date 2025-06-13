@@ -1,0 +1,13 @@
+# Environments
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+.env
+
+# downloaded files
+downloaded_notes
+converted_pdfs
